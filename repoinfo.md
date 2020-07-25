@@ -82,7 +82,7 @@ It is being used in the instantARCH installer.
 
 ### [mirror](https://github.com/instantOS/mirror)
 
-a mirror of all binary packages hosted int the instantOS pacman repo
+a mirror of all binary packages hosted in the instantOS pacman repo
 
 ### [instantTOOLS](https://github.com/instantOS/instantTOOLS)
 
@@ -132,7 +132,7 @@ Conky widget configuration for instantOS
 
 ### [grub-instantos](https://github.com/instantOS/grub-instantos)
 
-the grub theme for insatntOS. this only contains the theme, nothing else. 
+the grub theme for instantOS. This only contains the theme, nothing else. 
 
 ### [rox-filer](https://github.com/instantOS/rox-filer)
 
